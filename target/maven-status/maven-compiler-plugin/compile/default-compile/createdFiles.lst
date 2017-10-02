@@ -1,0 +1,5 @@
+com/sywu/myhadoop/mr/SumReducer.class
+com/sywu/myhadoop/mr/WordCount.class
+com/sywu/myhadoop/upload/UpLoadFile.class
+com/sywu/hadoop/reduce/TemperatureReduce.class
+com/sywu/myhadoop/mr/TokenizerMapper.class

@@ -1,0 +1,7 @@
+/home/lanstonwu/workspace/MyHadoop/src/main/java/com/sywu/hadoop/mapper/TemperatureMapper.java
+/home/lanstonwu/workspace/MyHadoop/src/main/java/com/sywu/hadoop/main/TemperatureMain.java
+/home/lanstonwu/workspace/MyHadoop/src/main/java/com/sywu/myhadoop/mr/WordCount.java
+/home/lanstonwu/workspace/MyHadoop/src/main/java/com/sywu/hadoop/reduce/TemperatureReduce.java
+/home/lanstonwu/workspace/MyHadoop/src/main/java/com/sywu/myhadoop/mr/TokenizerMapper.java
+/home/lanstonwu/workspace/MyHadoop/src/main/java/com/sywu/myhadoop/upload/UpLoadFile.java
+/home/lanstonwu/workspace/MyHadoop/src/main/java/com/sywu/myhadoop/mr/SumReducer.java
